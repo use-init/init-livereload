@@ -1,0 +1,22 @@
+{
+  "name": "init-livereload",
+  "title": "INIT LiveReload",
+  "description": "A plugin for INIT to livereload your assets",
+  "version": "0.1.0",
+  "homepage": "https://github.com/use-init/init-livereload",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/use-init/init-livereload.git"
+  },
+  "bugs": {
+    "url": "https://github.com/use-init/init-livereload/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "matchdep": "0.3.0",
+    "grunt": "0.4.2",
+    "grunt-contrib-watch": "~0.5.3"
+  },
+  "keywords": []
+}
